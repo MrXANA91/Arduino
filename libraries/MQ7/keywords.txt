@@ -1,0 +1,4 @@
+MQ7	KEYWORD1
+isThisSafe	KEYWORD2
+getValue	KEYWORD2
+diagnose	KEYWORD2
