@@ -2,7 +2,8 @@
 All my arduino projects
 
 ## ESP32_TEMPERATURE
-ESP32 connects to a MQTT server via WiFi and put temperature and humidity values into topics
+ESP32 connects to a MQTT server via WiFi and put temperature and humidity values into topics.<br/>
+(Needs <WiFi.h>, <PubSubClient.h> & <DHT.h>)
 
 ## libraries
 - HC-SR04 functions
